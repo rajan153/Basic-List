@@ -1,0 +1,10 @@
+.heading {
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    height: 6rem;
+    margin-right: 1rem;
+    justify-content: flex-end;
+}

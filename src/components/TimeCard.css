@@ -1,0 +1,21 @@
+.timeCard {
+    background-color: rgb(26, 26, 26);
+    height: 4rem;
+    width: 70px;
+    margin-left: 1rem;
+    box-shadow: 1px 1px 5px white;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 7px;
+    font-size: 5px;
+    border-radius: 10px;
+}
+
+.date {
+    font-weight: bolder;
+    font-size: 18px;
+}
